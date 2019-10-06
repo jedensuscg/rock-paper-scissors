@@ -1,4 +1,5 @@
-Portfolio page for all my projects.
+Project created for The Odin Project Web Development 101
 
-List of projects:
-1. Rock Paper Scissors - Status: Version 1 complete.
+Rock Paper Scissors
+
+For playable version go to https://jedensuscg.github.io/RPS/
