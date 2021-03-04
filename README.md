@@ -1,5 +1,10 @@
 Rock Paper Scissors
 
+
+**KNOWN ISSUES**
+Restarting game not restarting total score. Each game still last until 5 wins still.
+
+
 Project created for The Odin Project: Web Development 101
 Check it out here https://www.theodinproject.com
 
