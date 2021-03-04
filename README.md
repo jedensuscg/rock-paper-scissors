@@ -2,7 +2,7 @@ Rock Paper Scissors
 
 
 **KNOWN ISSUES**
-Restarting game not restarting total score. Each game still last until 5 wins still.
+FIxed: Restarting game not restarting total score. Each game still last until 5 wins still. (forgot to expose my resetScores function in the scoreboard module)
 
 
 Project created for The Odin Project: Web Development 101
